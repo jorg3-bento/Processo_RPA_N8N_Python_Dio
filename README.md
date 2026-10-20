@@ -60,8 +60,7 @@ flowchart LR
     J -->|não| L[Descartado]
 ```
 
-> 💡 Dica: adicione um print do workflow em `docs/workflow.png` e referencie aqui:
-> `![Workflow n8n](docs/workflow.png)`
+<img width="1281" height="374" alt="image" src="https://github.com/user-attachments/assets/85542dd2-0932-4a34-93f5-b6eb801b2d5e" />
 
 ---
 
